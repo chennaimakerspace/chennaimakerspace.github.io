@@ -1,5 +1,5 @@
 url: "http://chennaimakerspace.github.io/"
-
+baseurl: "/"
 # Site settings
 title: Chennai Makerspace
 email: your-email@domain.com
