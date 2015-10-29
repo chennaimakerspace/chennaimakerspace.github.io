@@ -13,55 +13,29 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Saipraveen Durairaman
-  pic: sai
-  social:
-    - title: github
-      url: https://www.github.com/saipraveend
-    - title: facebook
-      url:  https://www.facebook.com/saipraveen.durairaman/
-    - title: linkedin
-      url: https://linkedin.com/in/saipraveend
-- name: Karthik Singaram
-  pic: karthik
+- name: Tamil Kadir Rajavel
+  pic: tk
   social:
     - title: facebook
-      url:  https://www.facebook.com/karthik.singaram.5/
+      url:  https://www.facebook.com/ignitedindian
     - title: linkedin
-      url: https://in.linkedin.com/pub/karthik-singaram-rathinam/102/582/19
-- name: Sibi Sankar
-  pic: sibi
+      url: https://www.linkedin.com/in/tamilkadir
+- name: Ramesh Ramamoorthy 
+  pic: ramesh
   social:
-    - title: github
-      url:  https://www.github.com/quinasura
     - title: facebook
-      url:  https://www.facebook.com/sibisank/
-    - title: linkedin
-      url: https://linkedin.com/in/sibisankar
-- name: Vijayenthiran Subramaniam
-  pic: vijay
+      url:  https://www.facebook.com/ramesh.ramamoorthy
+- name: Senthilkumaran Mahadevan
+  pic: senthil
   social:
-    - title: github
-      url:  https://github.com/Vijayenthiran
     - title: facebook
-      url:  https://www.facebook.com/Vijayenthiran/
-    - title: linkedin
-      url:  https://in.linkedin.com/in/vijayenthiran
-- name: Adithya Selv
-  pic: adithya
-  social:
-    - title: github
-      url:  https://www.github.com/adithyaselv
-    - title: facebook
-      url: https://www.facebook.com/adithya.selv/
-    - title: linkedin
-      url:  https://linkedin.com/in/adithyaselv
+      url:  https://www.facebook.com/profile.php?id=100004215948948
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url:
+    url: https://www.facebook.com/Chennaimakers
   - title: github
     url: http://github.com/chennaimakerspace
 
