@@ -75,6 +75,26 @@ makers:
       url: https://www.facebook.com/adithya.selv/
     - title: linkedin
       url:  https://linkedin.com/in/adithyaselv
+- name: Mervin Rodrigo
+  pic: mervin
+  social:
+    - title: facebook
+      url:  https://www.facebook.com/mervin.rodrigo.5
+    - title: linkedin
+      url: https://in.linkedin.com/pub/mervin-j-b/19/b39/b0a
+- name: Imthiaz Ahmed
+  pic: imthi
+  social:
+    - title: facebook
+      url:  https://www.facebook.com/aimthiazz
+    - title: linkedin
+      url:  https://in.linkedin.com/in/aimthiazz
+- name: Sudhir Matta
+  pic: sudir
+  social:
+    - title: facebook
+      url: https://www.facebook.com/5udhiR
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
