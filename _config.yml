@@ -15,6 +15,7 @@ color:
 people:
 - name: Tamil Kadir Rajavel
   pic: tk
+  position: Embeddded Software Engineer, Rockwell Automation
   social:
     - title: facebook
       url:  https://www.facebook.com/ignitedindian
@@ -22,11 +23,13 @@ people:
       url: https://www.linkedin.com/in/tamilkadir
 - name: Ramesh Ramamoorthy 
   pic: ramesh
+  position: Deputy Manager, BGR Energy Systems Ltd.
   social:
     - title: facebook
       url:  https://www.facebook.com/ramesh.ramamoorthy
-- name: Senthilkumaran Mahadevan
+- name: Dr.Senthilkumaran Mahadevan
   pic: senthil
+  position: Associate Professor, SSNCE
   social:
     - title: facebook
       url:  https://www.facebook.com/profile.php?id=100004215948948
