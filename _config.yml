@@ -1,4 +1,4 @@
-url: http://www.chennaimakerspace.com 
+url: http://chennaimakerspace.com
 
 # Site settings
 title: Chennai Makerspace 
@@ -99,8 +99,13 @@ makers:
   social:
     - title: facebook
       url: https://www.facebook.com/5udhiR
-
-
+- name: Sanjay Shreedharan
+  pic: sanjay
+  social:
+    - title: facebook
+      url:  https://www.facebook.com/shridharsanjay1994
+    - title: linkedin
+      url: https://in.linkedin.com/pub/sanjay-shreedharan/85/4b0/178
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
