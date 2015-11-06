@@ -862,3 +862,9 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+.sclass
+{
+    font-size: small;
+    color: white;
+}
