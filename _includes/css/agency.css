@@ -262,11 +262,12 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+
 header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/new.gif);
+    background-image: url({{% site.url %}}/img/new.gif);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -861,10 +862,4 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
-}
-
-.sclass
-{
-    font-size: small;
-    color: white;
 }
