@@ -885,3 +885,15 @@ body {
 }
 
     }
+
+@media only screen and (max-width:500px){
+       
+       .findus {
+    overflow:hidden;
+    height:280px;
+    width:350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+    }
