@@ -359,7 +359,7 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-link {
     display: block;
-    position: relative;
+    position: absolute;
     margin: 0 auto;
     max-width: 400px;
 }
