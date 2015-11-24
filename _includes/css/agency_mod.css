@@ -780,6 +780,7 @@ ul.social-buttons li a:active {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+   overflow-y:  scroll;
 }
 
 .portfolio-modal .modal-content h2 {
