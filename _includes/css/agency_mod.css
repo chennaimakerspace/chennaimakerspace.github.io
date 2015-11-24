@@ -359,7 +359,7 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-link {
     display: block;
-    position: absolute;
+    position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
@@ -773,16 +773,15 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content {
     padding: 100px 0;
-    max-height: 100%;
+    min-height: 100%;
     border: 0;
-    position: fixed;
-    margin-top: -45%
+    position: absolute; 
+    overflow-y: auto;
     border-radius: 0;
     text-align: center;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
-   overflow-y:  auto;
 }
 
 .portfolio-modal .modal-content h2 {
